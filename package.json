@@ -14,12 +14,12 @@
   "author": "Guilherme Louro",
   "license": "MIT",
   "devDependencies": {
-    "@types/react": "^16.9.36",
     "@types/styled-components": "^5.1.0",
     "graphql": "^16.6.0",
     "typescript": "^3.9.5"
   },
   "dependencies": {
+    "@types/react": "^18.0.24",
     "graphql-request": "^5.0.0",
     "imagemin-mozjpeg": "^9.0.0",
     "imagemin-optipng": "^8.0.0",
